@@ -1,11 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1515285905994">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1515345991205">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
+    <file name="site_global.css" crc="3840566101"/>
     <file name="index.css" crc="181281902" ref="index"/>
     <file name="iefonts_index.css" crc="3891706331" ref="index"/>
-    <file name="landing_page.css" crc="135416932" ref="landing_page"/>
-    <file name="iefonts_landing_page.css" crc="3824530138" ref="landing_page"/>
-    <file name="nomq_landing_page.css" crc="4174827203" ref="landing_page"/>
+    <file name="landing_page.css" crc="516387655" ref="landing_page"/>
+    <file name="iefonts_landing_page.css" crc="9761527" ref="landing_page"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:landing_page"/>
@@ -17,7 +16,6 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:landing_page"/>
     <file name="require.js" crc="4157109226" ref="index:landing_page"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="landing_page"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="landing_page"/>
   </folder>
   <folder name="images">
     <file name="добро-пожаловать-favicon.ico" crc="4071786285" ref="index"/>
@@ -26,5 +24,5 @@
     <file name="blank.gif" crc="4208392903" ref="landing_page"/>
   </folder>
   <file name="index.html" crc="61890479" seo="true" mt="1515284222643" redirect="true"/>
-  <file name="landing_page.html" crc="265736667" seo="true" mt="1515285890183" redirect="true"/>
+  <file name="landing_page.html" crc="156944388" seo="true" mt="1515345813978" redirect="true"/>
 </manifest>
