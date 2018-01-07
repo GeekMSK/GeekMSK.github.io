@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1515283932811">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1515284080267">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="534343691" ref="index"/>
+    <file name="index.css" crc="181281902" ref="index"/>
     <file name="iefonts_index.css" crc="3891706331" ref="index"/>
     <file name="________-landing-page.css" crc="4048259338" ref="заказать-landing-page"/>
     <file name="iefonts_________-landing-page.css" crc="3801875793" ref="заказать-landing-page"/>
@@ -19,12 +19,9 @@
   </folder>
   <folder name="images">
     <file name="добро-пожаловать-favicon.ico" crc="4071786285" ref="index"/>
-    <file name="fully-responsive-img.png" crc="3839455004" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="заказать-landing-page-favicon.ico" crc="141742828" ref="заказать-landing-page"/>
     <file name="fully-responsive-img-u214-fr.png" crc="4263416435" ref="заказать-landing-page"/>
   </folder>
-  <file name="index.html" crc="452267147" seo="true" mt="1515283884678" redirect="true"/>
+  <file name="index.html" crc="226199099" seo="true" mt="1515284061088" redirect="true"/>
   <file name="заказать-landing-page.html" crc="44375479" seo="true" mt="1515283895919" redirect="true"/>
 </manifest>
