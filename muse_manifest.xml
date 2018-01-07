@@ -1,10 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1515284759851">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1515285474201">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="181281902" ref="index"/>
     <file name="iefonts_index.css" crc="3891706331" ref="index"/>
-    <file name="landing_page.css" crc="276631415" ref="landing_page"/>
-    <file name="iefonts_landing_page.css" crc="55894604" ref="landing_page"/>
+    <file name="landing_page.css" crc="4120483041" ref="landing_page"/>
+    <file name="iefonts_landing_page.css" crc="3824530138" ref="landing_page"/>
+    <file name="nomq_landing_page.css" crc="4181184131" ref="landing_page"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:landing_page"/>
@@ -16,12 +17,14 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:landing_page"/>
     <file name="require.js" crc="4157109226" ref="index:landing_page"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="landing_page"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="landing_page"/>
   </folder>
   <folder name="images">
     <file name="добро-пожаловать-favicon.ico" crc="4071786285" ref="index"/>
     <file name="fully-responsive-img-u214-fr.png" crc="4263416435" ref="landing_page"/>
     <file name="landing_page-favicon.ico" crc="141742828" ref="landing_page"/>
+    <file name="blank.gif" crc="4208392903" ref="landing_page"/>
   </folder>
   <file name="index.html" crc="61890479" seo="true" mt="1515284222643" redirect="true"/>
-  <file name="landing_page.html" crc="4158606770" seo="true" mt="1515284715791" redirect="true"/>
+  <file name="landing_page.html" crc="4085643869" seo="true" mt="1515285425948" redirect="true"/>
 </manifest>
