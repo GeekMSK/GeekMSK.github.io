@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1515345991205">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1515348674087">
   <folder name="css">
-    <file name="site_global.css" crc="3840566101"/>
-    <file name="index.css" crc="181281902" ref="index"/>
-    <file name="iefonts_index.css" crc="3891706331" ref="index"/>
-    <file name="landing_page.css" crc="516387655" ref="landing_page"/>
-    <file name="iefonts_landing_page.css" crc="9761527" ref="landing_page"/>
+    <file name="site_global.css" crc="3788697128"/>
+    <file name="index.css" crc="4140649575" ref="index"/>
+    <file name="iefonts_index.css" crc="169906962" ref="index"/>
+    <file name="landing_page.css" crc="3871019494" ref="landing_page"/>
+    <file name="iefonts_landing_page.css" crc="285315447" ref="landing_page"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:landing_page"/>
@@ -22,7 +22,25 @@
     <file name="fully-responsive-img-u214-fr.png" crc="4263416435" ref="landing_page"/>
     <file name="landing_page-favicon.ico" crc="141742828" ref="landing_page"/>
     <file name="blank.gif" crc="4208392903" ref="landing_page"/>
+    <file name="icons2.svg" crc="3773190141" ref="landing_page"/>
+    <file name="icons2_poster_u3368.png" crc="509155862" ref="landing_page"/>
+    <file name="вставленные-svg-140784x114.svg" crc="4146492718" seo="true" ref="landing_page">
+      <caption webpage="landing_page" alt=""/>
+    </file>
+    <file name="вставленные svg 140784x114_poster_.png" crc="4180042030" ref="landing_page"/>
+    <file name="вставленные-svg-125223x125.svg" crc="27940577" seo="true" ref="landing_page">
+      <caption webpage="landing_page" alt=""/>
+    </file>
+    <file name="вставленные svg 125223x125_poster_.png" crc="4097144866" ref="landing_page"/>
+    <file name="вставленные-svg-12514x109.svg" crc="4074163366" seo="true" ref="landing_page">
+      <caption webpage="landing_page" alt=""/>
+    </file>
+    <file name="вставленные svg 12514x109_poster_.png" crc="4011570842" ref="landing_page"/>
+    <file name="вставленные-svg-126283x96.svg" crc="3890532693" seo="true" ref="landing_page">
+      <caption webpage="landing_page" alt=""/>
+    </file>
+    <file name="вставленные svg 126283x96_poster_.png" crc="27882023" ref="landing_page"/>
   </folder>
-  <file name="index.html" crc="61890479" seo="true" mt="1515284222643" redirect="true"/>
-  <file name="landing_page.html" crc="156944388" seo="true" mt="1515345813978" redirect="true"/>
+  <file name="index.html" crc="4032802616" seo="true" mt="1515347135389" redirect="true"/>
+  <file name="landing_page.html" crc="3815003181" seo="true" mt="1515348250563" redirect="true"/>
 </manifest>
