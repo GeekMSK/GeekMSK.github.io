@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://GeekMSK.github.io/index.html</loc>
-    <lastmod>2018-01-07</lastmod>
+    <lastmod>2018-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://GeekMSK.github.io/landing_page.html</loc>
-    <lastmod>2018-01-07</lastmod>
+    <loc>http://GeekMSK.github.io/landing.html</loc>
+    <lastmod>2018-01-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://GeekMSK.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-svg-140784x114.svg</image:loc>
+      <image:loc>http://GeekMSK.github.io/images/responsive%20(1)-crop-u4218.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://GeekMSK.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-svg-125223x125.svg</image:loc>
+      <image:loc>http://GeekMSK.github.io/images/analytics%20(2)-crop-u4198.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://GeekMSK.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-svg-12514x109.svg</image:loc>
+      <image:loc>http://GeekMSK.github.io/images/technical-support-crop-u4286.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://GeekMSK.github.io/images/%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-svg-126283x96.svg</image:loc>
+      <image:loc>http://GeekMSK.github.io/images/analytics%20(1)-crop-u4100.png</image:loc>
     </image:image>
   </url>
 </urlset>
