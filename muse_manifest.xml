@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1516143737723">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1516144996321">
   <folder name="css">
     <file name="site_global.css" crc="397355904"/>
     <file name="index.css" crc="498495743" ref="index"/>
     <file name="iefonts_index.css" crc="4224526606" ref="index"/>
-    <file name="landing.css" crc="4049213093" ref="landing"/>
+    <file name="landing.css" crc="3796333889" ref="landing"/>
     <file name="iefonts_landing.css" crc="245022267" ref="landing"/>
   </folder>
   <folder name="scripts">
@@ -15,7 +15,6 @@
     <file name="jquery.watch.js" crc="99325471" ref="index:landing"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:landing"/>
     <file name="require.js" crc="4157109226" ref="index:landing"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="landing"/>
     <file name="webpro.js" crc="242022427" ref="landing"/>
     <file name="musewpslideshow.js" crc="457073769" ref="landing"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="landing"/>
@@ -23,9 +22,8 @@
   </folder>
   <folder name="images">
     <file name="добро-пожаловать-favicon.ico" crc="4071786285" ref="index"/>
-    <file name="fully-responsive-img-u214-fr.png" crc="4263416435" ref="landing"/>
     <file name="blank.gif" crc="4208392903" ref="landing"/>
-    <file name="landing-favicon.ico" crc="141742828" ref="landing"/>
+    <file name="landing-favicon.ico" crc="475570476" ref="landing"/>
     <file name="responsive (1)-crop-u4218.png" crc="3834004351" seo="true" ref="landing">
       <caption webpage="landing" alt=""/>
     </file>
@@ -71,7 +69,8 @@
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
     </file>
+    <file name="responsive-design-u214.png" crc="443046987" ref="landing"/>
   </folder>
   <file name="index.html" crc="4208371708" seo="true" mt="1516131535288" redirect="true"/>
-  <file name="landing.html" crc="4141152499" seo="true" mt="1516143623480" redirect="true"/>
+  <file name="landing.html" crc="4068572217" seo="true" mt="1516144974950" redirect="true"/>
 </manifest>
