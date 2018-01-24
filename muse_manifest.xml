@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1516144996321">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1516824940731">
   <folder name="css">
     <file name="site_global.css" crc="397355904"/>
     <file name="index.css" crc="498495743" ref="index"/>
     <file name="iefonts_index.css" crc="4224526606" ref="index"/>
-    <file name="landing.css" crc="3796333889" ref="landing"/>
-    <file name="iefonts_landing.css" crc="245022267" ref="landing"/>
+    <file name="landing.css" crc="4011864356" ref="landing"/>
+    <file name="iefonts_landing.css" crc="4060889319" ref="landing"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:landing"/>
@@ -16,29 +16,17 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:landing"/>
     <file name="require.js" crc="4157109226" ref="index:landing"/>
     <file name="webpro.js" crc="242022427" ref="landing"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="landing"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="landing"/>
-    <file name="touchswipe.js" crc="4066113679" ref="landing"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="landing"/>
+    <file name="form_check.php" crc="147359589" ref="landing"/>
+    <file name="form_throttle.php" crc="93986428" ref="landing"/>
+    <file name="form_process.php" crc="3851993751" ref="landing"/>
+    <file name="form-u4659.php" crc="4250744465" ref="landing"/>
   </folder>
   <folder name="images">
     <file name="добро-пожаловать-favicon.ico" crc="4071786285" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="landing"/>
     <file name="landing-favicon.ico" crc="475570476" ref="landing"/>
-    <file name="responsive (1)-crop-u4218.png" crc="3834004351" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-    </file>
-    <file name="analytics (2)-crop-u4198.png" crc="4088839111" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-    </file>
-    <file name="technical-support-crop-u4286.png" crc="3931644132" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-    </file>
-    <file name="analytics (1)-crop-u4100.png" crc="473586108" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="landing"/>
     <file name="icons8-ok-24.png" crc="3894629645" ref="landing">
-      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
@@ -66,11 +54,51 @@
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="responsive-design-u214.png" crc="3898994166" ref="landing"/>
+    <file name="internet.png" crc="4201777008" seo="true" ref="landing">
       <caption webpage="landing" alt=""/>
     </file>
-    <file name="responsive-design-u214.png" crc="443046987" ref="landing"/>
+    <file name="search.png" crc="517448128" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="login.png" crc="254991640" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="responsive (2).png" crc="180099531" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="profits.png" crc="3972452624" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="puzzle.png" crc="4153122559" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="analytics (3).png" crc="180375697" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="business-cards.png" crc="510408990" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="landing">
+      <caption webpage="landing" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4208371708" seo="true" mt="1516131535288" redirect="true"/>
-  <file name="landing.html" crc="4068572217" seo="true" mt="1516144974950" redirect="true"/>
+  <file name="landing.html" crc="3967760626" seo="true" mt="1516824916079" redirect="true"/>
 </manifest>
