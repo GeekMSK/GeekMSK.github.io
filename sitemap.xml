@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://GeekMSK.github.io/index.html</loc>
-    <lastmod>2018-01-16</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://GeekMSK.github.io/landing.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -34,6 +34,15 @@
     </image:image>
     <image:image>
       <image:loc>http://GeekMSK.github.io/images/business-cards.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://GeekMSK.github.io/images/support.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://GeekMSK.github.io/images/clipboard.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://GeekMSK.github.io/images/deal.png</image:loc>
     </image:image>
   </url>
 </urlset>
