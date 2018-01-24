@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1516831197386">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1516831736112">
   <folder name="css">
     <file name="site_global.css" crc="397355904"/>
-    <file name="index.css" crc="34298070" ref="index"/>
+    <file name="index.css" crc="3930962278" ref="index"/>
     <file name="iefonts_index.css" crc="3943563675" ref="index"/>
     <file name="landing.css" crc="4099012419" ref="landing"/>
     <file name="iefonts_landing.css" crc="3796795213" ref="landing"/>
@@ -85,6 +85,6 @@
       <caption webpage="landing" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4273131221" seo="true" mt="1516830212893" redirect="true"/>
-  <file name="landing.html" crc="294387676" seo="true" mt="1516831017911" redirect="true"/>
+  <file name="index.html" crc="3910298089" seo="true" mt="1516831724522" redirect="true"/>
+  <file name="landing.html" crc="389744714" seo="true" mt="1516831594842" redirect="true"/>
 </manifest>
