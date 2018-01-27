@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1517081553442">
+  <folder name="css">
+    <file name="site_global.css" crc="397355904"/>
+    <file name="index.css" crc="194763228" ref="index"/>
+    <file name="iefonts_index.css" crc="3943563675" ref="index"/>
+    <file name="landing.css" crc="349394068" ref="landing"/>
+    <file name="iefonts_landing.css" crc="3899954056" ref="landing"/>
+    <file name="nomq_landing.css" crc="289355239" ref="landing"/>
+=======
 <manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1516831736112">
   <folder name="css">
     <file name="site_global.css" crc="397355904"/>
@@ -5,6 +15,7 @@
     <file name="iefonts_index.css" crc="3943563675" ref="index"/>
     <file name="landing.css" crc="4099012419" ref="landing"/>
     <file name="iefonts_landing.css" crc="3796795213" ref="landing"/>
+>>>>>>> 00650bd12322f50ab9fadbd1948b5e6eeaa24aa2
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:landing"/>
@@ -15,12 +26,61 @@
     <file name="jquery.watch.js" crc="99325471" ref="index:landing"/>
     <file name="html5shiv.js" crc="4241844378" ref="landing"/>
     <file name="require.js" crc="4157109226" ref="index:landing"/>
+<<<<<<< HEAD
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="landing"/>
+  </folder>
+  <folder name="images">
+    <file name="добро-пожаловать-favicon.ico" crc="307028609" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="landing:index"/>
+    <file name="landing-favicon.ico" crc="307028609" ref="landing"/>
+=======
   </folder>
   <folder name="images">
     <file name="добро-пожаловать-favicon.ico" crc="475570476" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="landing:index"/>
     <file name="landing-favicon.ico" crc="475570476" ref="landing"/>
+>>>>>>> 00650bd12322f50ab9fadbd1948b5e6eeaa24aa2
     <file name="icons8-ok-24.png" crc="3894629645" ref="landing">
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
@@ -48,32 +108,78 @@
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
-    <file name="responsive-design-u214.png" crc="3898994166" ref="landing"/>
     <file name="internet.png" crc="4201777008" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
     </file>
     <file name="search.png" crc="483206677" seo="true" ref="landing">
       <caption webpage="landing" alt=""/>
+<<<<<<< HEAD
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+=======
+>>>>>>> 00650bd12322f50ab9fadbd1948b5e6eeaa24aa2
       <caption webpage="landing" alt=""/>
     </file>
     <file name="login.png" crc="254991640" seo="true" ref="landing">
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
     <file name="responsive (2).png" crc="180099531" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
     </file>
     <file name="profits.png" crc="3972452624" seo="true" ref="landing">
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
     <file name="puzzle.png" crc="4153122559" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
     </file>
     <file name="analytics (3).png" crc="180375697" seo="true" ref="landing">
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
     <file name="business-cards.png" crc="510408990" seo="true" ref="landing">
       <caption webpage="landing" alt=""/>
+<<<<<<< HEAD
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="support.png" crc="3981523032" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="clipboard.png" crc="4212990529" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+    </file>
+    <file name="deal.png" crc="206095668" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+=======
     </file>
     <file name="support.png" crc="3981523032" seo="true" ref="landing">
       <caption webpage="landing" alt=""/>
@@ -82,9 +188,21 @@
       <caption webpage="landing" alt=""/>
     </file>
     <file name="deal.png" crc="206095668" seo="true" ref="landing">
+>>>>>>> 00650bd12322f50ab9fadbd1948b5e6eeaa24aa2
       <caption webpage="landing" alt=""/>
     </file>
+    <file name="responsive-symbol-with-a-widescreen-monitor-a-cellphone-and-a-tablet-u214.png" crc="299502219" ref="landing"/>
+    <file name="idea-u5021.png" crc="4079565366" ref="landing"/>
+    <file name="responsive-symbol-with-a-widescreen-monitor-a-cellphone-and-a-tablet-u2142.png" crc="29640626" ref="landing"/>
+    <file name="idea-u50212.png" crc="4228640785" ref="landing"/>
+    <file name="responsive-symbol-with-a-widescreen-monitor-a-cellphone-and-a-tablet-u2143.png" crc="4252550719" ref="landing"/>
+    <file name="idea-u50213.png" crc="365731143" ref="landing"/>
   </folder>
+<<<<<<< HEAD
+  <file name="index.html" crc="4251544816" seo="true" mt="1517075802331" redirect="true"/>
+  <file name="landing.html" crc="4106827686" seo="true" mt="1517081527499" redirect="true"/>
+=======
   <file name="index.html" crc="3910298089" seo="true" mt="1516831724522" redirect="true"/>
   <file name="landing.html" crc="389744714" seo="true" mt="1516831594842" redirect="true"/>
+>>>>>>> 00650bd12322f50ab9fadbd1948b5e6eeaa24aa2
 </manifest>
