@@ -2,43 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://GeekMSK.github.io/index.html</loc>
-<<<<<<< HEAD
     <lastmod>2018-01-27</lastmod>
-=======
-    <lastmod>2018-01-25</lastmod>
->>>>>>> 00650bd12322f50ab9fadbd1948b5e6eeaa24aa2
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://GeekMSK.github.io/landing.html</loc>
-<<<<<<< HEAD
     <lastmod>2018-01-27</lastmod>
-=======
-    <lastmod>2018-01-25</lastmod>
->>>>>>> 00650bd12322f50ab9fadbd1948b5e6eeaa24aa2
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://GeekMSK.github.io/images/internet.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://GeekMSK.github.io/images/search.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://GeekMSK.github.io/images/login.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://GeekMSK.github.io/images/responsive%20(2).png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://GeekMSK.github.io/images/profits.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://GeekMSK.github.io/images/puzzle.png</image:loc>
+      <image:loc>http://GeekMSK.github.io/images/analytics%20(3).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://GeekMSK.github.io/images/analytics%20(3).png</image:loc>
+      <image:loc>http://GeekMSK.github.io/images/search.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://GeekMSK.github.io/images/responsive%20(2).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://GeekMSK.github.io/images/puzzle.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://GeekMSK.github.io/images/business-cards.png</image:loc>
