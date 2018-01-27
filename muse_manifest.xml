@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1517085307444">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1517088737555">
   <folder name="css">
     <file name="site_global.css" crc="397355904"/>
-    <file name="index.css" crc="4176010726" ref="index"/>
+    <file name="index.css" crc="16089227" ref="index"/>
     <file name="iefonts_index.css" crc="3899954056" ref="index"/>
-    <file name="landing.css" crc="4086890297" ref="landing"/>
-    <file name="nomq_landing.css" crc="84299054" ref="landing"/>
+    <file name="landing.css" crc="381168542" ref="landing"/>
+    <file name="nomq_landing.css" crc="4178332077" ref="landing"/>
     <file name="iefonts_landing.css" crc="3899954056" ref="landing"/>
-    <file name="nomq_index.css" crc="43018192" ref="index"/>
+    <file name="nomq_index.css" crc="3959169461" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:landing"/>
@@ -28,8 +28,10 @@
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
     <file name="login.png" crc="254991640" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
@@ -38,8 +40,10 @@
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
     <file name="analytics (3).png" crc="180375697" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
@@ -51,8 +55,11 @@
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
     <file name="responsive (2).png" crc="180099531" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
@@ -61,8 +68,10 @@
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
     <file name="business-cards.png" crc="510408990" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
@@ -71,13 +80,16 @@
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
     <file name="clipboard.png" crc="4212990529" seo="true" ref="landing">
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
+      <caption webpage="landing" alt=""/>
     </file>
     <file name="deal.png" crc="206095668" seo="true" ref="landing">
+      <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
       <caption webpage="landing" alt=""/>
@@ -168,7 +180,9 @@
     <file name="idea-u50213.png" crc="133088678" ref="landing"/>
     <file name="idea-u5531.png" crc="148522173" ref="index"/>
     <file name="idea-u55312.png" crc="386015082" ref="index"/>
+    <file name="idea-u55313.png" crc="385956014" ref="index"/>
+    <file name="idea-u50214.png" crc="4082345422" ref="landing"/>
   </folder>
-  <file name="index.html" crc="285151052" seo="true" mt="1517085259091" redirect="true"/>
-  <file name="landing.html" crc="337190886" seo="true" mt="1517085259095" redirect="true"/>
+  <file name="index.html" crc="422511784" seo="true" mt="1517087557388" redirect="true"/>
+  <file name="landing.html" crc="166735362" seo="true" mt="1517088713093" redirect="true"/>
 </manifest>
