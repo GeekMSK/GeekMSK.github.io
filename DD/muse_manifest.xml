@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DD.ru" resolutions="1x" timestamp="1517427085350">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DD.ru" resolutions="1x" timestamp="1517428406727">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3774588955" ref="index"/>
-    <file name="iefonts_index.css" crc="377366889" ref="index"/>
+    <file name="index.css" crc="303463344" ref="index"/>
+    <file name="iefonts_index.css" crc="481253038" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="demo.mp4" crc="357628758" seo="true" mt="1517418734000"/>
@@ -16,10 +16,12 @@
     <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="telephone-u242.png" crc="4068413439" ref="index"/>
   </folder>
-  <file name="index.html" crc="4113600137" seo="true" mt="1517427041481" redirect="true"/>
+  <file name="index.html" crc="332200419" seo="true" mt="1517428140660" redirect="true"/>
 </manifest>
