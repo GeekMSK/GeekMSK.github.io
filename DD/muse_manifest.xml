@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DD.ru" resolutions="1x" timestamp="1517513906878">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DD.ru" resolutions="1x" timestamp="1517522130705">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3925221738" ref="index"/>
-    <file name="iefonts_index.css" crc="3870666750" ref="index"/>
+    <file name="index.css" crc="20794524" ref="index"/>
+    <file name="iefonts_index.css" crc="3934296767" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="demo.mp4" crc="357628758" seo="true" mt="1517418734000"/>
@@ -35,127 +35,139 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_e4td90pgbo-crop-u932.jpg" crc="452447069" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bwnh7mx91nm-crop-u1227.jpg" crc="357977421" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dpxcufw9bgg-crop-u1307.jpg" crc="16857077" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="okdqfnzmv6c-crop-u1387.jpg" crc="3788206749" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u73ijmbn0lc-crop-u1467.jpg" crc="405306495" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_sbaip5tezc-crop-u1167.jpg" crc="3776021723" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cbabc4gh1e4-crop-u1247.jpg" crc="325699306" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gusivbrnrbk-crop-u1327.jpg" crc="3861310623" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ruy6c5eru_8-crop-u1407.jpg" crc="3991405861" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ut8diyy5tgg-crop-u1487.jpg" crc="4210248455" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="0aoreyrdmsm-crop-u1187.jpg" crc="154650447" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cfawkuiz-rg-crop-u1267.jpg" crc="456909766" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="k3tnt1qtaus-crop-u1347.jpg" crc="486704502" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sn1hy3xwrlq-crop-u1427.jpg" crc="4033873122" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="x9zninoegss-crop-u1507.jpg" crc="146548437" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="7qfg2e-dzh8-crop-u1207.jpg" crc="314055824" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dlljwnjoha0-crop-u1287.jpg" crc="4260768584" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lnlfpf-k7uq-crop-u1367.jpg" crc="473761215" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tfca2onu3sk-crop-u1447.jpg" crc="4190859321" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="zevgjnuzcb4-crop-u1527.jpg" crc="4198510939" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_e4td90pgbo-crop-u927.jpg" crc="3972686662" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_sbaip5tezc-crop-u1161.jpg" crc="3893364064" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="0aoreyrdmsm-crop-u1181.jpg" crc="420805133" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="7qfg2e-dzh8-crop-u1201.jpg" crc="3980094316" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bwnh7mx91nm-crop-u1221.jpg" crc="222590349" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cbabc4gh1e4-crop-u1241.jpg" crc="3952797205" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cfawkuiz-rg-crop-u1261.jpg" crc="381646298" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dlljwnjoha0-crop-u1281.jpg" crc="4031435981" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dpxcufw9bgg-crop-u1301.jpg" crc="514547692" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gusivbrnrbk-crop-u1321.jpg" crc="479746858" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="k3tnt1qtaus-crop-u1341.jpg" crc="4042835347" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="lnlfpf-k7uq-crop-u1361.jpg" crc="3861665897" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="okdqfnzmv6c-crop-u1381.jpg" crc="66527537" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ruy6c5eru_8-crop-u1401.jpg" crc="3932513816" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sn1hy3xwrlq-crop-u1421.jpg" crc="4194886962" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tfca2onu3sk-crop-u1441.jpg" crc="173103008" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u73ijmbn0lc-crop-u1461.jpg" crc="213650305" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ut8diyy5tgg-crop-u1481.jpg" crc="3785383513" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="x9zninoegss-crop-u1501.jpg" crc="525540934" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="zevgjnuzcb4-crop-u1521.jpg" crc="4101295154" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="ur_b1kuw74w.jpg" crc="3780773331" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f_rnjocrufs.jpg" crc="3800751689" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yy2ndj24qxa.jpg" crc="473562082" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="index-u2307.png" crc="3939772622" ref="index"/>
+    <file name="0aoreyrdmsm-crop-u1527.jpg" crc="154650447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cfawkuiz-rg-crop-u1854.jpg" crc="456909766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gusivbrnrbk-crop-u1934.jpg" crc="3861310623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruy6c5eru_8-crop-u2014.jpg" crc="3991405861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u73ijmbn0lc-crop-u2094.jpg" crc="3926373560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7qfg2e-dzh8-crop-u1794.jpg" crc="314055824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dlljwnjoha0-crop-u1874.jpg" crc="4260768584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k3tnt1qtaus-crop-u1954.jpg" crc="486704502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sbaip5tezc-crop-u2034.jpg" crc="3776021723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ut8diyy5tgg-crop-u2114.jpg" crc="4210248455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bwnh7mx91nm-crop-u1814.jpg" crc="357977421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dpxcufw9bgg-crop-u1894.jpg" crc="16857077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lnlfpf-k7uq-crop-u1974.jpg" crc="3801856942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sn1hy3xwrlq-crop-u2054.jpg" crc="4033873122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="x9zninoegss-crop-u2134.jpg" crc="4174160458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cbabc4gh1e4-crop-u1834.jpg" crc="325699306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e4td90pgbo-crop-u1914.jpg" crc="452447069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okdqfnzmv6c-crop-u1994.jpg" crc="3788206749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tfca2onu3sk-crop-u2074.jpg" crc="4190859321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zevgjnuzcb4-crop-u2154.jpg" crc="4198510939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0aoreyrdmsm-crop-u1521.jpg" crc="3940648874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7qfg2e-dzh8-crop-u1788.jpg" crc="3945457971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bwnh7mx91nm-crop-u1808.jpg" crc="3814689923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cbabc4gh1e4-crop-u1828.jpg" crc="464348202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cfawkuiz-rg-crop-u1848.jpg" crc="47338532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dlljwnjoha0-crop-u1868.jpg" crc="166638487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dpxcufw9bgg-crop-u1888.jpg" crc="3914544995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="e4td90pgbo-crop-u1908.jpg" crc="489988161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gusivbrnrbk-crop-u1928.jpg" crc="245263205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k3tnt1qtaus-crop-u1948.jpg" crc="363077011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lnlfpf-k7uq-crop-u1968.jpg" crc="13692715" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okdqfnzmv6c-crop-u1988.jpg" crc="4054039904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruy6c5eru_8-crop-u2008.jpg" crc="514780066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sbaip5tezc-crop-u2028.jpg" crc="265781484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sn1hy3xwrlq-crop-u2048.jpg" crc="3815043923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tfca2onu3sk-crop-u2068.jpg" crc="4173713004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u73ijmbn0lc-crop-u2088.jpg" crc="158762748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ut8diyy5tgg-crop-u2108.jpg" crc="3799510160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="x9zninoegss-crop-u2128.jpg" crc="4168009256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zevgjnuzcb4-crop-u2148.jpg" crc="297040867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="index-u2219.png" crc="3795305628" ref="index"/>
+    <file name="telephone-u2317.png" crc="4160691429" ref="index"/>
   </folder>
-  <file name="index.html" crc="4234915139" seo="true" mt="1517513895436" redirect="true"/>
+  <file name="index.html" crc="6525438" seo="true" mt="1517522116701" redirect="true"/>
 </manifest>
