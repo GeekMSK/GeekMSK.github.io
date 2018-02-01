@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DD.ru" resolutions="1x" timestamp="1517474559518">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DD.ru" resolutions="1x" timestamp="1517513906878">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4079247025" ref="index"/>
-    <file name="iefonts_index.css" crc="496779890" ref="index"/>
+    <file name="index.css" crc="3925221738" ref="index"/>
+    <file name="iefonts_index.css" crc="3870666750" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="demo.mp4" crc="357628758" seo="true" mt="1517418734000"/>
     <file name="demo.webm" crc="4017069709" seo="true" mt="1517419901000"/>
-    <file name="fon.jpg" crc="23977970" seo="true" mt="1517418209000"/>
+    <file name="fon.png" crc="126466103" seo="true" mt="1517510693000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,6 +18,11 @@
     <file name="require.js" crc="4157109226" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -26,6 +31,131 @@
     <file name="do-not-disturb-rounded-sign-u427.png" crc="3898939933" ref="index"/>
     <file name="balloons-u413.png" crc="4067252996" ref="index"/>
     <file name="man-in-a-party-dancing-with-people-u441.png" crc="46767865" ref="index"/>
+    <file name="index.png" crc="4160232252" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_e4td90pgbo-crop-u932.jpg" crc="452447069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bwnh7mx91nm-crop-u1227.jpg" crc="357977421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dpxcufw9bgg-crop-u1307.jpg" crc="16857077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okdqfnzmv6c-crop-u1387.jpg" crc="3788206749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u73ijmbn0lc-crop-u1467.jpg" crc="405306495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_sbaip5tezc-crop-u1167.jpg" crc="3776021723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cbabc4gh1e4-crop-u1247.jpg" crc="325699306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gusivbrnrbk-crop-u1327.jpg" crc="3861310623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruy6c5eru_8-crop-u1407.jpg" crc="3991405861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ut8diyy5tgg-crop-u1487.jpg" crc="4210248455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0aoreyrdmsm-crop-u1187.jpg" crc="154650447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cfawkuiz-rg-crop-u1267.jpg" crc="456909766" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k3tnt1qtaus-crop-u1347.jpg" crc="486704502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sn1hy3xwrlq-crop-u1427.jpg" crc="4033873122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="x9zninoegss-crop-u1507.jpg" crc="146548437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7qfg2e-dzh8-crop-u1207.jpg" crc="314055824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dlljwnjoha0-crop-u1287.jpg" crc="4260768584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lnlfpf-k7uq-crop-u1367.jpg" crc="473761215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tfca2onu3sk-crop-u1447.jpg" crc="4190859321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zevgjnuzcb4-crop-u1527.jpg" crc="4198510939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_e4td90pgbo-crop-u927.jpg" crc="3972686662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_sbaip5tezc-crop-u1161.jpg" crc="3893364064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0aoreyrdmsm-crop-u1181.jpg" crc="420805133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7qfg2e-dzh8-crop-u1201.jpg" crc="3980094316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bwnh7mx91nm-crop-u1221.jpg" crc="222590349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cbabc4gh1e4-crop-u1241.jpg" crc="3952797205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cfawkuiz-rg-crop-u1261.jpg" crc="381646298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dlljwnjoha0-crop-u1281.jpg" crc="4031435981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dpxcufw9bgg-crop-u1301.jpg" crc="514547692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gusivbrnrbk-crop-u1321.jpg" crc="479746858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k3tnt1qtaus-crop-u1341.jpg" crc="4042835347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lnlfpf-k7uq-crop-u1361.jpg" crc="3861665897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okdqfnzmv6c-crop-u1381.jpg" crc="66527537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruy6c5eru_8-crop-u1401.jpg" crc="3932513816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sn1hy3xwrlq-crop-u1421.jpg" crc="4194886962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tfca2onu3sk-crop-u1441.jpg" crc="173103008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u73ijmbn0lc-crop-u1461.jpg" crc="213650305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ut8diyy5tgg-crop-u1481.jpg" crc="3785383513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="x9zninoegss-crop-u1501.jpg" crc="525540934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zevgjnuzcb4-crop-u1521.jpg" crc="4101295154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="3863953560" seo="true" mt="1517474481873" redirect="true"/>
+  <file name="index.html" crc="4234915139" seo="true" mt="1517513895436" redirect="true"/>
 </manifest>
