@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DD.ru" resolutions="1x" timestamp="1517436187273">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DD.ru" resolutions="1x" timestamp="1517474559518">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4057615700" ref="index"/>
-    <file name="iefonts_index.css" crc="365971642" ref="index"/>
+    <file name="index.css" crc="4079247025" ref="index"/>
+    <file name="iefonts_index.css" crc="496779890" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="demo.mp4" crc="357628758" seo="true" mt="1517418734000"/>
@@ -21,11 +21,11 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="telephone-u242.png" crc="4068413439" ref="index"/>
-    <file name="badge-u399.png" crc="4168832537" ref="index"/>
-    <file name="do-not-disturb-rounded-sign-u427.png" crc="447965838" ref="index"/>
-    <file name="confetti-u413.png" crc="86466339" ref="index"/>
-    <file name="happy-man-jumping-u441.png" crc="444856488" ref="index"/>
+    <file name="telephone-u242.png" crc="4160691429" ref="index"/>
+    <file name="badge-u399.png" crc="483453048" ref="index"/>
+    <file name="do-not-disturb-rounded-sign-u427.png" crc="3898939933" ref="index"/>
+    <file name="balloons-u413.png" crc="4067252996" ref="index"/>
+    <file name="man-in-a-party-dancing-with-people-u441.png" crc="46767865" ref="index"/>
   </folder>
-  <file name="index.html" crc="4108383463" seo="true" mt="1517436038605" redirect="true"/>
+  <file name="index.html" crc="3863953560" seo="true" mt="1517474481873" redirect="true"/>
 </manifest>
