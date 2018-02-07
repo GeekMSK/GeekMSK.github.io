@@ -1,188 +1,64 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GeekMSK.github.io" resolutions="1x" timestamp="1517088737555">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="geekmsk.io" resolutions="1x" timestamp="1518044326697">
   <folder name="css">
-    <file name="site_global.css" crc="397355904"/>
-    <file name="index.css" crc="16089227" ref="index"/>
-    <file name="iefonts_index.css" crc="3899954056" ref="index"/>
-    <file name="landing.css" crc="381168542" ref="landing"/>
-    <file name="nomq_landing.css" crc="4178332077" ref="landing"/>
-    <file name="iefonts_landing.css" crc="3899954056" ref="landing"/>
-    <file name="nomq_index.css" crc="3959169461" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="455229412" ref="index"/>
+    <file name="iefonts_index.css" crc="3969328221" ref="index"/>
+    <file name="visitka.css" crc="4237863691" ref="visitka"/>
+    <file name="iefonts_visitka.css" crc="4433351" ref="visitka"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:landing"/>
-    <file name="museutils.js" crc="3803043152" ref="index:landing"/>
-    <file name="whatinput.js" crc="86476730" ref="index:landing"/>
-    <file name="museconfig.js" crc="380897831" ref="index:landing"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:landing"/>
-    <file name="require.js" crc="4157109226" ref="index:landing"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="landing"/>
-    <file name="html5shiv.js" crc="4241844378" ref="landing"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="landing:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:visitka"/>
+    <file name="museutils.js" crc="3803043152" ref="index:visitka"/>
+    <file name="whatinput.js" crc="86476730" ref="index:visitka"/>
+    <file name="museconfig.js" crc="380897831" ref="index:visitka"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:visitka"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:visitka"/>
+    <file name="require.js" crc="4157109226" ref="index:visitka"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u2491.php" crc="535982983" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="добро-пожаловать-favicon.ico" crc="307028609" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="landing"/>
-    <file name="landing-favicon.ico" crc="307028609" ref="landing"/>
-    <file name="responsive-symbol-with-a-widescreen-monitor-a-cellphone-and-a-tablet-u214.png" crc="299502219" ref="landing"/>
-    <file name="internet.png" crc="4201777008" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:visitka"/>
+    <file name="identity-card-layout.png" crc="3996020389" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="login.png" crc="254991640" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    <file name="diamond.png" crc="172085219" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="profits.png" crc="3972452624" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    <file name="startup.png" crc="29465932" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="analytics (3).png" crc="180375697" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    <file name="main-pic-viz_1.png" crc="416169464" seo="true" ref="visitka">
+      <caption webpage="visitka" alt=""/>
     </file>
-    <file name="search.png" crc="483206677" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    <file name="badge-page.png" crc="4250607353" seo="true" ref="visitka">
+      <caption webpage="visitka" alt=""/>
     </file>
-    <file name="responsive (2).png" crc="180099531" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    <file name="oah-dc-theme.svg" crc="3896042295" seo="true" ref="visitka">
+      <caption webpage="visitka" alt=""/>
     </file>
-    <file name="puzzle.png" crc="4153122559" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    <file name="oah-dc-theme_poster_.png" crc="3838755348" ref="visitka"/>
+    <file name="oah-dc-adaptive.svg" crc="3923127916" seo="true" ref="visitka">
+      <caption webpage="visitka" alt=""/>
     </file>
-    <file name="business-cards.png" crc="510408990" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    <file name="oah-dc-adaptive_poster_.png" crc="295870039" ref="visitka"/>
+    <file name="oah-dc-settings.svg" crc="82883479" seo="true" ref="visitka">
+      <caption webpage="visitka" alt=""/>
     </file>
-    <file name="support.png" crc="3981523032" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
+    <file name="oah-dc-settings_poster_.png" crc="445516541" ref="visitka"/>
+    <file name="support-u2402.png" crc="25841945" ref="index"/>
+    <file name="search-u2408.png" crc="3883839423" ref="index"/>
+    <file name="clipboard-u2406.png" crc="4182091321" ref="index"/>
+    <file name="deal-u2414.png" crc="4193125875" ref="index"/>
+    <file name="88b2d444ed5b569ff044aef5020cbcca.jpg" crc="349426853" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="clipboard.png" crc="4212990529" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-    </file>
-    <file name="deal.png" crc="206095668" seo="true" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-    </file>
-    <file name="icons8-ok-24.png" crc="3894629645" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-    </file>
-    <file name="icons8-cancel-24.png" crc="102803508" ref="landing">
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-      <caption webpage="landing" alt=""/>
-    </file>
-    <file name="idea-u5021.png" crc="183865250" ref="landing"/>
-    <file name="responsive-symbol-with-a-widescreen-monitor-a-cellphone-and-a-tablet-u2142.png" crc="29640626" ref="landing"/>
-    <file name="idea-u50212.png" crc="4035029205" ref="landing"/>
-    <file name="responsive-symbol-with-a-widescreen-monitor-a-cellphone-and-a-tablet-u2143.png" crc="4252550719" ref="landing"/>
-    <file name="idea-u50213.png" crc="133088678" ref="landing"/>
-    <file name="idea-u5531.png" crc="148522173" ref="index"/>
-    <file name="idea-u55312.png" crc="386015082" ref="index"/>
-    <file name="idea-u55313.png" crc="385956014" ref="index"/>
-    <file name="idea-u50214.png" crc="4082345422" ref="landing"/>
   </folder>
-  <file name="index.html" crc="422511784" seo="true" mt="1517087557388" redirect="true"/>
-  <file name="landing.html" crc="166735362" seo="true" mt="1517088713093" redirect="true"/>
+  <file name="index.html" crc="66029902" seo="true" mt="1518041284043" redirect="true"/>
+  <file name="visitka.html" crc="3924120383" seo="true" mt="1517863628236" redirect="true"/>
 </manifest>
