@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="geekmsk.io" resolutions="1x" timestamp="1518044326697">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="geekmsk.io" resolutions="1x" timestamp="1518078251621">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="455229412" ref="index"/>
-    <file name="iefonts_index.css" crc="3969328221" ref="index"/>
+    <file name="index.css" crc="3994660485" ref="index"/>
+    <file name="iefonts_index.css" crc="64212599" ref="index"/>
     <file name="visitka.css" crc="4237863691" ref="visitka"/>
     <file name="iefonts_visitka.css" crc="4433351" ref="visitka"/>
   </folder>
@@ -51,14 +51,14 @@
       <caption webpage="visitka" alt=""/>
     </file>
     <file name="oah-dc-settings_poster_.png" crc="445516541" ref="visitka"/>
-    <file name="support-u2402.png" crc="25841945" ref="index"/>
-    <file name="search-u2408.png" crc="3883839423" ref="index"/>
-    <file name="clipboard-u2406.png" crc="4182091321" ref="index"/>
-    <file name="deal-u2414.png" crc="4193125875" ref="index"/>
     <file name="88b2d444ed5b569ff044aef5020cbcca.jpg" crc="349426853" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="icons8-chat-96-u2803.png" crc="171873489" ref="index"/>
+    <file name="icons8-chat-96-u2819.png" crc="171873489" ref="index"/>
+    <file name="icons8-chat-96-u2838.png" crc="171873489" ref="index"/>
+    <file name="icons8-chat-96-u2857.png" crc="171873489" ref="index"/>
   </folder>
-  <file name="index.html" crc="66029902" seo="true" mt="1518041284043" redirect="true"/>
+  <file name="index.html" crc="528389681" seo="true" mt="1518078237089" redirect="true"/>
   <file name="visitka.html" crc="3924120383" seo="true" mt="1517863628236" redirect="true"/>
 </manifest>
