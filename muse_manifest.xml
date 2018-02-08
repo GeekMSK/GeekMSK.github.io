@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="geekmsk.io" resolutions="1x" timestamp="1518078656525">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="geekmsk.io" resolutions="1x" timestamp="1518082934707">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3997854661" ref="index"/>
+    <file name="index.css" crc="379043912" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="visitka.css" crc="4237863691" ref="visitka"/>
     <file name="iefonts_visitka.css" crc="4433351" ref="visitka"/>
-    <file name="nomq_index.css" crc="4162698076" ref="index"/>
+    <file name="nomq_index.css" crc="208505362" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:visitka"/>
@@ -60,14 +60,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="icons8-chat-96-u2803.png" crc="171873489" ref="index"/>
-    <file name="icons8-chat-96-u2819.png" crc="171873489" ref="index"/>
-    <file name="icons8-chat-96-u2838.png" crc="171873489" ref="index"/>
-    <file name="icons8-chat-96-u2857.png" crc="171873489" ref="index"/>
     <file name="icons8-chat-96-u28032.png" crc="171873489" ref="index"/>
-    <file name="icons8-chat-96-u28192.png" crc="171873489" ref="index"/>
-    <file name="icons8-chat-96-u28382.png" crc="171873489" ref="index"/>
-    <file name="icons8-chat-96-u28572.png" crc="171873489" ref="index"/>
+    <file name="icons8-detective-96-u2819.png" crc="348232564" ref="index"/>
+    <file name="icons8-task-96-u2838.png" crc="204415867" ref="index"/>
+    <file name="icons8-handshake-96-u2857.png" crc="3856053994" ref="index"/>
+    <file name="icons8-detective-96-u28192.png" crc="348232564" ref="index"/>
+    <file name="icons8-task-96-u28382.png" crc="204415867" ref="index"/>
+    <file name="icons8-handshake-96-u28572.png" crc="3856053994" ref="index"/>
   </folder>
-  <file name="index.html" crc="3801333865" seo="true" mt="1518078629664" redirect="true"/>
+  <file name="index.html" crc="3907145049" seo="true" mt="1518082784161" redirect="true"/>
   <file name="visitka.html" crc="3924120383" seo="true" mt="1517863628236" redirect="true"/>
 </manifest>
